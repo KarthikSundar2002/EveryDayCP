@@ -1,0 +1,31 @@
+@font-face {
+    font-family: custom;
+    src: url('./Bungee/Bungee-Regular.ttf');
+}
+
+html, body{
+  height: 100%;
+  margin: 0;
+  font-family: custom, cursive;
+  color: black;
+  font-size: 1rem;
+}
+
+.back{
+    font-size: 3rem;
+}
+body{
+    background-color: blanchedalmond;
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+a, a:hover, a:visited, a:active {
+    color: inherit;
+    text-decoration: none;
+}
+
+
+
+
