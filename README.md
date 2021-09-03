@@ -6,7 +6,7 @@ out there [cp-algorithms](https://cp-algorithms.com/).
 
 You can dowinload the ubuntu installer [here](https://drive.google.com/drive/folders/1BC9kEFHReBTteaVkMzxNUi_p6OqXp0AN?usp=sharing).
 
-To locally build it, follow the command below
+After cloning the repo, to locally build it, follow the command below
 ```
   npm install --save-dev @electron-forge/cli
   npx electron-forge import
